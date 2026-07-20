@@ -1,0 +1,51 @@
+/* Enhanced Minimalist Light Design Tokens */
+:root {
+  --bg-app: #F8FAFC;
+  --bg-surface: #FFFFFF;
+  --bg-subtle: #F1F5F9;
+  --bg-hover: #F8FAFC;
+  --bg-gradient-hero: linear-gradient(135deg, #FFFFFF 0%, #F1F5F9 100%);
+  
+  --border-light: #E2E8F0;
+  --border-subtle: #F1F5F9;
+  --border-focus: #6366F1;
+
+  --text-primary: #0F172A;
+  --text-secondary: #475569;
+  --text-muted: #94A3B8;
+
+  --primary-50: #EEF2FF;
+  --primary-100: #E0E7FF;
+  --primary-500: #6366F1;
+  --primary-600: #4F46E5;
+  --primary-700: #4338CA;
+
+  --emerald-50: #ECFDF5;
+  --emerald-100: #D1FAE5;
+  --emerald-600: #059669;
+  --emerald-700: #047857;
+
+  --amber-50: #FFFBEB;
+  --amber-100: #FEF3C7;
+  --amber-600: #D97706;
+
+  --rose-50: #FEF2F2;
+  --rose-100: #FEE2E2;
+  --rose-600: #DC2626;
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-xl: 24px;
+  --radius-full: 9999px;
+
+  --shadow-sm: 0 1px 3px 0 rgba(15, 23, 42, 0.03);
+  --shadow-md: 0 4px 12px -2px rgba(15, 23, 42, 0.05), 0 2px 4px -2px rgba(15, 23, 42, 0.03);
+  --shadow-lg: 0 12px 24px -4px rgba(15, 23, 42, 0.06), 0 4px 8px -4px rgba(15, 23, 42, 0.02);
+  --shadow-hover: 0 20px 30px -6px rgba(99, 102, 241, 0.08), 0 8px 12px -4px rgba(15, 23, 42, 0.02);
+
+  --font-headline: 'Plus Jakarta Sans', 'Inter', system-ui, -apple-system, sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+  --transition-fast: 0.15s ease;
+  --transition-normal: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
