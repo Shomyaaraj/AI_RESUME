@@ -1,6 +1,6 @@
-# AI Interview Preparation Platform
+# AI RESUME ANALYZER
 
-An intelligent full-stack application that leverages Google Generative AI to help job seekers prepare for technical interviews. Users can input their resume, job description, and self-description to receive tailored interview questions, tips, and compatibility analysis.
+An intelligent full-stack application that leverages Google Generative AI to help job seekers prepare for jobs by analyzing their resume against their job roles. Users can input their resume, job description, and self-description to receive tailored tips, and compatibility analysis.
 
 ---
 
